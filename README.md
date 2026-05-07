@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shashiranjan549/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shashiranjan549/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Shashiranjan549/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shashiranjan549/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shashiranjan549/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
@@ -48,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Shashiranjan549/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Shashiranjan549/DSA/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
