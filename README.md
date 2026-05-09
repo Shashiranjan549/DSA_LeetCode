@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Shashiranjan549/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashiranjan549/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/Shashiranjan549/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0455-assign-cookies](https://github.com/Shashiranjan549/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/Shashiranjan549/DSA/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Shashiranjan549/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shashiranjan549/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -30,16 +31,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Shashiranjan549/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shashiranjan549/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shashiranjan549/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/Shashiranjan549/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shashiranjan549/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shashiranjan549/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/Shashiranjan549/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shashiranjan549/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Shashiranjan549/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0455-assign-cookies](https://github.com/Shashiranjan549/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shashiranjan549/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
