@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Shashiranjan549/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shashiranjan549/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Shashiranjan549/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Shashiranjan549/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Shashiranjan549/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shashiranjan549/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shashiranjan549/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Shashiranjan549/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shashiranjan549/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Shashiranjan549/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 <!---LeetCode Topics End-->
