@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shashiranjan549/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Shashiranjan549/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shashiranjan549/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Shashiranjan549/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Shashiranjan549/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashiranjan549/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shashiranjan549/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shashiranjan549/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Shashiranjan549/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shashiranjan549/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shashiranjan549/DSA/tree/main/0141-linked-list-cycle/) | Easy |
