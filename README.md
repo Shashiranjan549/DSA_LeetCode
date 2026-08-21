@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shashiranjan549/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Shashiranjan549/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/Shashiranjan549/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Shashiranjan549/DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shashiranjan549/DSA/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shashiranjan549/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shashiranjan549/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shashiranjan549/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
