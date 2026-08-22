@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shashiranjan549/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shashiranjan549/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
