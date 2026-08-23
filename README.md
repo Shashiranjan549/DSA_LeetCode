@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashiranjan549/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Shashiranjan549/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shashiranjan549/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1927-sum-game](https://github.com/Shashiranjan549/DSA/tree/main/1927-sum-game/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Shashiranjan549/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [1927-sum-game](https://github.com/Shashiranjan549/DSA/tree/main/1927-sum-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shashiranjan549/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [1927-sum-game](https://github.com/Shashiranjan549/DSA/tree/main/1927-sum-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shashiranjan549/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -165,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Shashiranjan549/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Shashiranjan549/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shashiranjan549/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/Shashiranjan549/DSA/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
